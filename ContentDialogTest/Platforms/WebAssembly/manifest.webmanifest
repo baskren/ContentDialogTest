@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "ContentDialogTest",
+  "display": "standalone",
+  "name": "ContentDialogTest",
+  "short_name": "ContentDialogTest",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
